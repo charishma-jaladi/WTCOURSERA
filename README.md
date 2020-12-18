@@ -1,5 +1,5 @@
 WEEK 2
-Assignment code link   -   https://github.com/charishma-jaladi/WTCOURSERA/blob/main/WEEK%202%20assignment/Index.html
+Assignment code link   -   https://github.com/charishma-jaladi/WTCOURSERA/tree/main/WEEK%202%20assignment
 Assignment output link -   https://charishma-jaladi.github.io/WTCOURSERA/WEEK%202%20assignment/Index.html
 
 WEEK 3 
