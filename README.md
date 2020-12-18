@@ -7,7 +7,7 @@ Assignment code link   -   https://github.com/charishma-jaladi/WTCOURSERA/tree/m
 Assignment output link -   https://charishma-jaladi.github.io/WTCOURSERA/WEEK%203%20assignment/Index.html
 
 WEEK 4
-Assignment code link   - 
+Assignment code link   -   https://github.com/charishma-jaladi/WTCOURSERA/tree/main/WEEK%204%20assignment
 Assignment output link -   https://charishma-jaladi.github.io/WTCOURSERA/WEEK%204%20assignment/Index.html
 
 WEEK 5
