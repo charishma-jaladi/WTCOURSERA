@@ -1,3 +1,5 @@
+Link to my github repository - https://github.com/charishma-jaladi/WTCOURSERA
+
 WEEK 2
 
 Assignment code link   -   https://github.com/charishma-jaladi/WTCOURSERA/tree/main/WEEK%202%20assignment
